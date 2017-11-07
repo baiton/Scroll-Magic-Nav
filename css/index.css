@@ -1,3 +1,20 @@
+
+.intro{
+  background-color: #6fbf8a;
+  height: 100%;
+}
+
+.custom-nav{
+  position: relative;
+  top: 100%;
+}
+
+.content{
+  background-color: #32803e;
+  height: 100%
+}
+
+/*************************************/
 html{
   height: 100%;
   width: 100%;
@@ -9,28 +26,23 @@ body{
   height: 100%;
 }
 
-header{
-  background-color: orange;
-  height: 100%;
-}
-
 nav{
-  background-color: lightgray;
+  background-color: #d0e2d0;
 }
 
 ul{
-  background-color: lightblue;
+  background-color: #d0e2d0;
   padding-left: 0px;
 }
 
 a{
   background-color: lightgreen;
-  color: black;
   text-decoration: none;
 
 }
 
 li{
-  background-color: gold;
+  background-color: #d0e2d0;
   list-style: none;
+  color: black;
 }
