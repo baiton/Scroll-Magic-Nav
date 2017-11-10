@@ -13,7 +13,7 @@
   position: absolute;
   bottom: 0;
   width: 100%;
-  min-height: 100px;
+  min-height: 75px;
   display: flex;
   justify-content: center;
   opacity: 0;
@@ -62,12 +62,12 @@ body{
 
 nav{
   display: flex;
-  background-color: #d0e2d0;
+  background-color: #71BE8B;
 }
 
 ul{
   display: flex;
-  background-color: #d0e2d0;
+  background-color: #71BE8B;
   padding-left: 0px;
 }
 
@@ -78,7 +78,7 @@ a{
 }
 
 li{
-  background-color: #d0e2d0;
+  background-color: #71BE8B;
   list-style: none;
   color: black;
 }
